@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋Hi 👋, I'm Eyüp Mert Toprakoğlu<br><br>A Jr Full Stack Developer from Turkey</h2>
+<h2 align="center"> 👋Hi 👋, I'm Eyüp Mert Toprakoğlu<br><br>A Jr Full Stack Developer from Turkey</h2>
 
 ###
 
